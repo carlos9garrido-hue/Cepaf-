@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBE3B4"/>
+      <stop offset="0.6" stop-color="#F5B97A"/>
+      <stop offset="1" stop-color="#EFA25E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#cielo)"/>
+  <!-- sol -->
+  <circle cx="560" cy="240" r="64" fill="#FFF1C9" opacity="0.8"/>
+  <circle cx="560" cy="240" r="40" fill="#FFE39A"/>
+  <!-- colinas lejanas -->
+  <path d="M0 290 C150 230 300 270 450 250 C600 230 700 270 800 250 V450 H0 Z" fill="#C9A06A"/>
+  <!-- aldea en la colina -->
+  <g>
+    <rect x="610" y="236" width="34" height="28" fill="#F0DDBB"/>
+    <rect x="650" y="228" width="42" height="36" fill="#E8D1A5"/>
+    <rect x="698" y="240" width="30" height="24" fill="#F0DDBB"/>
+    <rect x="623" y="248" width="9" height="16" fill="#7A5B3A"/>
+    <rect x="665" y="244" width="11" height="20" fill="#7A5B3A"/>
+    <rect x="709" y="250" width="8" height="14" fill="#7A5B3A"/>
+  </g>
+  <!-- colina media -->
+  <path d="M0 340 C200 290 350 350 520 320 C650 295 740 330 800 310 V450 H0 Z" fill="#A9814E"/>
+  <!-- camino -->
+  <path d="M120 450 C220 400 330 380 420 350 C500 325 570 300 640 270" stroke="#EAD3A4" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <!-- caminante -->
+  <circle cx="304" cy="342" r="8" fill="#5C3A1E"/>
+  <path d="M292 388 L296 352 L312 352 L316 388 Z" fill="#7B1E2B"/>
+  <line x1="322" y1="334" x2="322" y2="390" stroke="#5C3A1E" stroke-width="3" stroke-linecap="round"/>
+  <!-- primer plano -->
+  <path d="M0 410 C150 392 300 428 450 418 C600 408 700 436 800 420 V450 H0 Z" fill="#7C5A33"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CDE7F2"/>
+      <stop offset="1" stop-color="#F6F0D2"/>
+    </linearGradient>
+    <g id="pez">
+      <ellipse cx="0" cy="0" rx="56" ry="22" fill="#7FA3B8"/>
+      <ellipse cx="4" cy="8" rx="46" ry="10" fill="#B9D3DF"/>
+      <polygon points="52,0 86,-24 86,24" fill="#6A90A6"/>
+      <circle cx="-36" cy="-5" r="4.5" fill="#1E2A33"/>
+      <path d="M-14 -22 Q0 -34 14 -22" fill="#6A90A6"/>
+    </g>
+    <g id="pan">
+      <ellipse cx="0" cy="0" rx="46" ry="24" fill="#D9A15B"/>
+      <path d="M-22 -10 Q0 -20 22 -10" stroke="#A8743C" stroke-width="3" fill="none"/>
+      <path d="M-26 2 Q0 -8 26 2" stroke="#A8743C" stroke-width="3" fill="none"/>
+    </g>
+  </defs>
+  <rect width="800" height="450" fill="url(#cielo)"/>
+  <!-- colinas -->
+  <path d="M0 250 C140 190 280 230 420 205 C560 180 680 225 800 200 V450 H0 Z" fill="#A9C98A"/>
+  <path d="M0 300 C180 260 330 310 500 285 C640 265 730 300 800 285 V450 H0 Z" fill="#8DB06A"/>
+  <!-- gente sentada en la hierba -->
+  <g>
+    <circle cx="90" cy="262" r="6" fill="#7B1E2B"/><circle cx="118" cy="268" r="6" fill="#8A6D3B"/>
+    <circle cx="150" cy="260" r="6" fill="#5E7B9A"/><circle cx="186" cy="268" r="6" fill="#7B1E2B"/>
+    <circle cx="222" cy="262" r="6" fill="#8A6D3B"/><circle cx="560" cy="258" r="6" fill="#5E7B9A"/>
+    <circle cx="596" cy="266" r="6" fill="#7B1E2B"/><circle cx="632" cy="258" r="6" fill="#8A6D3B"/>
+    <circle cx="668" cy="266" r="6" fill="#5E7B9A"/><circle cx="706" cy="260" r="6" fill="#7B1E2B"/>
+    <circle cx="742" cy="268" r="6" fill="#8A6D3B"/>
+  </g>
+  <!-- hierba de primer plano -->
+  <path d="M0 360 C200 330 380 375 560 350 C680 335 750 355 800 345 V450 H0 Z" fill="#6E9450"/>
+  <!-- cesta -->
+  <path d="M230 304 L570 304 L540 404 Q400 432 260 404 Z" fill="#B07F45"/>
+  <g stroke="#8A5E2E" stroke-width="3" fill="none">
+    <path d="M238 328 Q400 344 562 328"/>
+    <path d="M246 352 Q400 370 554 352"/>
+    <path d="M252 376 Q400 394 548 376"/>
+  </g>
+  <ellipse cx="400" cy="304" rx="170" ry="20" fill="#8A5E2E"/>
+  <!-- cinco panes -->
+  <use xlink:href="#pan" xmlns:xlink="http://www.w3.org/1999/xlink" x="318" y="290"/>
+  <use xlink:href="#pan" xmlns:xlink="http://www.w3.org/1999/xlink" x="402" y="282"/>
+  <use xlink:href="#pan" xmlns:xlink="http://www.w3.org/1999/xlink" x="486" y="290"/>
+  <use xlink:href="#pan" xmlns:xlink="http://www.w3.org/1999/xlink" x="360" y="268"/>
+  <use xlink:href="#pan" xmlns:xlink="http://www.w3.org/1999/xlink" x="446" y="268"/>
+  <!-- dos peces -->
+  <g transform="translate(130 388) rotate(-12)"><use xlink:href="#pez" xmlns:xlink="http://www.w3.org/1999/xlink"/></g>
+  <g transform="translate(660 388) rotate(12) scale(-1 1)"><use xlink:href="#pez" xmlns:xlink="http://www.w3.org/1999/xlink"/></g>
+</svg>

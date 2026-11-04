@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="agua" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8CC0DA"/>
+      <stop offset="1" stop-color="#4E8DB0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="#EADFC6"/>
+  <!-- pórtico -->
+  <rect y="70" width="800" height="200" fill="#C9B58A"/>
+  <rect y="62" width="800" height="22" fill="#B39A68"/>
+  <g fill="#BFA878">
+    <rect x="100" y="90" width="130" height="180"/>
+    <rect x="260" y="90" width="130" height="180"/>
+    <rect x="420" y="90" width="130" height="180"/>
+    <rect x="580" y="90" width="130" height="180"/>
+  </g>
+  <g fill="#F4EBD6">
+    <rect x="70" y="84" width="28" height="186"/>
+    <rect x="230" y="84" width="28" height="186"/>
+    <rect x="390" y="84" width="28" height="186"/>
+    <rect x="550" y="84" width="28" height="186"/>
+    <rect x="710" y="84" width="28" height="186"/>
+  </g>
+  <g fill="#D8CBAA">
+    <rect x="88" y="84" width="10" height="186"/>
+    <rect x="248" y="84" width="10" height="186"/>
+    <rect x="408" y="84" width="10" height="186"/>
+    <rect x="568" y="84" width="10" height="186"/>
+    <rect x="728" y="84" width="10" height="186"/>
+  </g>
+  <!-- borde del estanque -->
+  <rect y="270" width="800" height="34" fill="#CBB68A"/>
+  <rect y="300" width="800" height="6" fill="#A98F5F"/>
+  <!-- agua -->
+  <rect x="40" y="306" width="720" height="124" rx="14" fill="url(#agua)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="3">
+    <ellipse cx="260" cy="360" rx="70" ry="14"/>
+    <ellipse cx="260" cy="360" rx="38" ry="7"/>
+    <ellipse cx="520" cy="392" rx="90" ry="16"/>
+    <ellipse cx="520" cy="392" rx="50" ry="8"/>
+  </g>
+  <!-- camilla enrollada -->
+  <g transform="rotate(-6 650 262)">
+    <rect x="590" y="244" width="124" height="28" rx="12" fill="#B5652B"/>
+    <rect x="590" y="244" width="124" height="6" rx="3" fill="#D28A4A"/>
+    <line x1="620" y1="244" x2="620" y2="272" stroke="#E5B77C" stroke-width="3"/>
+    <line x1="650" y1="244" x2="650" y2="272" stroke="#E5B77C" stroke-width="3"/>
+    <line x1="680" y1="244" x2="680" y2="272" stroke="#E5B77C" stroke-width="3"/>
+  </g>
+  <!-- haz de luz -->
+  <polygon points="300,84 380,84 520,306 380,306" fill="#FFFFFF" opacity="0.14"/>
+</svg>

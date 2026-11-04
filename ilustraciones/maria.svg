@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E3C0"/>
+      <stop offset="1" stop-color="#D9A66B"/>
+    </linearGradient>
+    <radialGradient id="luz" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#FFF3C9" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FFF3C9" stop-opacity="0"/>
+    </radialGradient>
+    <g id="tinaja">
+      <path d="M-34 -150 L34 -150 L30 -132 C62 -112 66 -50 42 -6 C30 4 -30 4 -42 -6 C-66 -50 -62 -112 -30 -132 Z" fill="#B88A5A"/>
+      <path d="M-58 -96 C-20 -84 20 -84 58 -96" stroke="#8A6038" stroke-width="5" fill="none"/>
+      <path d="M-50 -60 C-20 -50 20 -50 50 -60" stroke="#9C7045" stroke-width="3" fill="none"/>
+      <ellipse cx="0" cy="-150" rx="34" ry="9" fill="#8A6038"/>
+    </g>
+  </defs>
+  <rect width="800" height="450" fill="url(#fondo)"/>
+  <rect width="800" height="450" fill="url(#luz)"/>
+  <!-- arcos de la sala -->
+  <path d="M50 344 V190 A80 80 0 0 1 210 190 V344 Z" fill="#C98F55" opacity="0.45"/>
+  <path d="M320 344 V190 A80 80 0 0 1 480 190 V344 Z" fill="#C98F55" opacity="0.45"/>
+  <path d="M590 344 V190 A80 80 0 0 1 750 190 V344 Z" fill="#C98F55" opacity="0.45"/>
+  <!-- suelo -->
+  <rect y="344" width="800" height="106" fill="#8A5A34"/>
+  <rect y="344" width="800" height="8" fill="#6B4223"/>
+  <!-- seis tinajas de piedra -->
+  <use xlink:href="#tinaja" x="110" y="372"/>
+  <use xlink:href="#tinaja" x="230" y="372"/>
+  <use xlink:href="#tinaja" x="350" y="372"/>
+  <use xlink:href="#tinaja" x="470" y="372"/>
+  <use xlink:href="#tinaja" x="590" y="372"/>
+  <use xlink:href="#tinaja" x="710" y="372"/>
+  <!-- del agua al vino -->
+  <ellipse cx="110" cy="222" rx="26" ry="6" fill="#7FB2D0"/>
+  <ellipse cx="230" cy="222" rx="26" ry="6" fill="#7FB2D0"/>
+  <ellipse cx="350" cy="222" rx="26" ry="6" fill="#9A5B86"/>
+  <ellipse cx="470" cy="222" rx="26" ry="6" fill="#8A2A3A"/>
+  <ellipse cx="590" cy="222" rx="26" ry="6" fill="#7B1E2B"/>
+  <ellipse cx="710" cy="222" rx="26" ry="6" fill="#7B1E2B"/>
+  <!-- destellos -->
+  <g fill="#FFF3C9" opacity="0.9">
+    <circle cx="470" cy="190" r="4"/>
+    <circle cx="590" cy="184" r="5"/>
+    <circle cx="710" cy="192" r="4"/>
+    <circle cx="530" cy="160" r="3"/>
+    <circle cx="650" cy="164" r="3"/>
+  </g>
+</svg>

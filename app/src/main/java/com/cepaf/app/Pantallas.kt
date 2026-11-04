@@ -64,7 +64,10 @@ fun Pantalla(
                 navigationIcon = {
                     if (alVolver != null) TextButton(onClick = alVolver) { Text("← Volver") }
                 },
-                actions = { acciones() }
+                actions = {
+                    acciones()
+                    if (alVolver == null) MenuTema()
+                }
             )
         },
         content = contenido
@@ -223,7 +226,9 @@ fun DetalleCiudad(id: String, alVolver: () -> Unit) {
                 .padding(16.dp),
             verticalArrangement = Arrangement.spacedBy(12.dp)
         ) {
-            ImagenAsset(c.imagen, Modifier.fillMaxWidth().height(180.dp).clip(MaterialTheme.shapes.medium))
+            if (c.imagen != null) {
+                ImagenAsset(c.imagen, Modifier.fillMaxWidth().height(180.dp).clip(MaterialTheme.shapes.medium))
+            }
             Text(c.region, style = MaterialTheme.typography.labelLarge)
             Text("En San Juan: ${c.referencias}", style = MaterialTheme.typography.bodySmall)
             Text("Historia", style = MaterialTheme.typography.titleMedium)

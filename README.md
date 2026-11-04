@@ -19,7 +19,11 @@ Prototipo en Kotlin + Jetpack Compose.
 ## Contenido editable (`app/src/main/assets/`)
 - `juan.json`: texto del Evangelio (Biblia de Jerusalén, 1976), 21 capítulos y 879 versículos, convertido desde el PDF del Instituto de Pastoral Bíblica.
 - `glosario.json`, `personajes.json`, `lectio.json`: contenidos en español, editables.
-- `imagenes/`: poner aquí las imágenes y escribir su nombre de archivo en el campo `"imagen"` del JSON correspondiente.
+- `imagenes/`: imágenes de la app (PNG). Se enlazan con el campo `"imagen"` del JSON correspondiente.
+- Las ilustraciones de los personajes son originales y están en `ilustraciones/` (SVG editables). Para regenerar los PNG: `tools/convertir_ilustraciones.sh` (requiere `rsvg-convert`).
+
+## Tema
+En las pantallas principales, el botón **Tema** permite elegir Predeterminado (sigue al teléfono), Claro u Oscuro. La elección se guarda en el dispositivo.
 
 ## Volver a cargar o cambiar el texto
 Desde un PDF:

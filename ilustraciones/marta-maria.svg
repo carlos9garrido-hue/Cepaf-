@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4B3F6B"/>
+      <stop offset="1" stop-color="#F0B27A"/>
+    </linearGradient>
+    <radialGradient id="puerta" cx="0.5" cy="1" r="1">
+      <stop offset="0" stop-color="#FFE9A8"/>
+      <stop offset="1" stop-color="#E9A24C"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#cielo)"/>
+  <!-- casa de Betania -->
+  <rect x="440" y="150" width="290" height="210" fill="#E9D8B7"/>
+  <rect x="430" y="140" width="310" height="16" fill="#CBB48A"/>
+  <rect x="470" y="176" width="40" height="44" rx="4" fill="#4A3A2A"/>
+  <rect x="478" y="184" width="24" height="28" fill="#F2C060" opacity="0.9"/>
+  <rect x="650" y="176" width="40" height="44" rx="4" fill="#4A3A2A"/>
+  <rect x="658" y="184" width="24" height="28" fill="#F2C060" opacity="0.9"/>
+  <path d="M545 360 V268 A30 30 0 0 1 605 268 V360 Z" fill="url(#puerta)"/>
+  <path d="M545 360 V268 A30 30 0 0 1 605 268 V360 Z" fill="none" stroke="#4A3A2A" stroke-width="6"/>
+  <!-- suelo -->
+  <rect y="360" width="800" height="90" fill="#7A5B3A"/>
+  <!-- mesa -->
+  <rect x="60" y="340" width="400" height="20" rx="4" fill="#6B4223"/>
+  <rect x="84" y="360" width="16" height="70" fill="#5A361C"/>
+  <rect x="420" y="360" width="16" height="70" fill="#5A361C"/>
+  <!-- perfume que sube -->
+  <g fill="none" stroke="#FFE9A8" stroke-width="4" stroke-linecap="round" opacity="0.85">
+    <path d="M236 206 C222 188 250 176 236 156 C224 140 244 130 238 114"/>
+    <path d="M262 208 C250 190 276 180 264 162 C254 148 272 138 266 124"/>
+  </g>
+  <!-- frasco de alabastro -->
+  <path d="M212 338 C192 300 198 258 222 242 L222 222 L278 222 L278 242 C302 258 308 300 288 338 Z" fill="#F5EFE0" stroke="#D2C6A8" stroke-width="3"/>
+  <rect x="226" y="214" width="48" height="12" rx="4" fill="#C79A3B"/>
+  <path d="M214 290 C240 302 262 302 286 290" stroke="#D2C6A8" stroke-width="3" fill="none"/>
+  <!-- pan -->
+  <ellipse cx="120" cy="330" rx="46" ry="14" fill="#D9A15B"/>
+  <path d="M96 326 Q120 318 144 326" stroke="#A8743C" stroke-width="3" fill="none"/>
+  <!-- lámpara de aceite -->
+  <ellipse cx="380" cy="334" rx="30" ry="9" fill="#B07F45"/>
+  <path d="M410 332 C424 330 428 336 420 340 Z" fill="#B07F45"/>
+  <path d="M380 322 C368 308 376 294 380 284 C384 294 392 308 380 322 Z" fill="#F28C28"/>
+  <path d="M380 320 C374 312 378 304 380 298 C382 304 386 312 380 320 Z" fill="#FFD36B"/>
+</svg>
