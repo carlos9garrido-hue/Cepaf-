@@ -1,0 +1,48 @@
+[
+  {
+    "nombre": "Lectio",
+    "latin": "Lectura",
+    "descripcion": "Leer el pasaje despacio, dos o tres veces, en voz alta si es posible. Se trata de escuchar qué dice el texto, antes de interpretarlo.",
+    "preguntas": [
+      "¿Quiénes aparecen en esta escena?",
+      "¿Dónde y cuándo ocurre?",
+      "¿Qué palabras o gestos se repiten?"
+    ]
+  },
+  {
+    "nombre": "Meditatio",
+    "latin": "Meditación",
+    "descripcion": "Reflexionar sobre el texto y dejar que la Palabra se relacione con la propia vida.",
+    "preguntas": [
+      "¿Qué me dice Dios a través de este pasaje?",
+      "¿Con qué personaje me identifico hoy?",
+      "¿Qué parte de mi vida ilumina esta escena?"
+    ]
+  },
+  {
+    "nombre": "Oratio",
+    "latin": "Oración",
+    "descripcion": "Responder a Dios con la propia oración: agradecer, pedir perdón, alabar o suplicar.",
+    "preguntas": [
+      "¿Qué quiero decirle al Señor después de esta lectura?",
+      "¿Qué necesito pedirle?"
+    ]
+  },
+  {
+    "nombre": "Contemplatio",
+    "latin": "Contemplación",
+    "descripcion": "Permanecer en silencio ante Dios, sin muchas palabras, dejando que Él actúe.",
+    "preguntas": [
+      "¿Puedo quedarme unos minutos en silencio, descansando en su presencia?"
+    ]
+  },
+  {
+    "nombre": "Actio",
+    "latin": "Acción",
+    "descripcion": "Llevar la Palabra a la vida concreta con un propósito sencillo y realizable.",
+    "preguntas": [
+      "¿Qué gesto concreto haré esta semana?",
+      "¿A quién puedo acercarme con lo que he recibido?"
+    ]
+  }
+]

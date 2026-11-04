@@ -1,0 +1,66 @@
+[
+  {
+    "id": "maria",
+    "nombre": "María, madre de Jesús",
+    "milagro": "Las bodas de Caná",
+    "referencia": "2,1-12",
+    "biografia": "Juan nunca la llama por su nombre: la presenta siempre como «la madre de Jesús». Aparece en dos momentos clave: en Caná, donde advierte a Jesús de que falta vino y pide a los sirvientes que hagan lo que él les diga; y junto a la cruz, donde Jesús la confía al discípulo amado (19,25-27). Según la tradición cristiana, era de Nazaret, esposa de José y madre de Jesús. Su papel en Caná muestra su atención a las necesidades de los demás y su confianza en la palabra de su Hijo.",
+    "imagen": ""
+  },
+  {
+    "id": "funcionario",
+    "nombre": "El funcionario real de Cafarnaúm",
+    "milagro": "Curación del hijo del funcionario",
+    "referencia": "4,46-54",
+    "biografia": "No se conoce su nombre. Juan lo llama «funcionario real», es decir, alguien vinculado a la corte, probablemente la de Herodes Antipas. Viaja desde Cafarnaúm hasta Caná para rogar a Jesús que sane a su hijo moribundo. Jesús le dice que vuelva, que su hijo vive, y él confía en esa palabra sin pedir nada más. Cuando sus siervos le confirman que el niño mejoró a la misma hora, cree él y toda su casa. Es un ejemplo de fe basada solo en la palabra de Jesús.",
+    "imagen": ""
+  },
+  {
+    "id": "paralitico",
+    "nombre": "El paralítico de Betesda",
+    "milagro": "Curación junto al estanque",
+    "referencia": "5,1-18",
+    "biografia": "No se conoce su nombre. Llevaba treinta y ocho años enfermo y esperaba junto al estanque de Betesda, en Jerusalén, sin nadie que le ayudara. Jesús le pregunta si quiere ser sano y le manda levantarse, tomar su camilla y caminar. Como era sábado, algunos judíos le reprochan que cargue la camilla, y eso desencadena una controversia con Jesús. Más tarde Jesús lo encuentra en el Templo. Su historia muestra el cuidado de Jesús por quien no tiene a nadie.",
+    "imagen": ""
+  },
+  {
+    "id": "andres-felipe",
+    "nombre": "Andrés y Felipe",
+    "milagro": "La multiplicación de los panes",
+    "referencia": "6,1-15",
+    "biografia": "Ambos eran de Betsaida y estuvieron entre los primeros discípulos. Andrés, hermano de Simón Pedro, siguió primero a Juan el Bautista y llevó a su hermano a Jesús (1,40-42). Felipe fue llamado directamente por Jesús y trajo a Natanael (1,43-46). En la multiplicación, Jesús pregunta a Felipe dónde comprar pan, y Andrés señala a un muchacho que tiene cinco panes y dos peces. Ambos aparecen también cuando unos griegos quieren ver a Jesús (12,20-22). Según la tradición, después de la Pascua ambos predicaron el Evangelio; Andrés suele asociarse con Grecia y Felipe con Asia Menor.",
+    "imagen": ""
+  },
+  {
+    "id": "ciego",
+    "nombre": "El ciego de nacimiento",
+    "milagro": "Curación del ciego",
+    "referencia": "9,1-41",
+    "biografia": "No se conoce su nombre. Era mendigo en Jerusalén y ciego desde su nacimiento. Jesús unta barro en sus ojos y lo envía a lavarse en el estanque de Siloé; así recobra la vista. Los vecinos y los fariseos lo interrogan, e incluso sus padres, por miedo, evitan comprometerse. Él, con sencillez, mantiene lo que le pasó y termina siendo expulsado de la sinagoga. Jesús lo encuentra de nuevo y él confiesa su fe y lo adora. Su recorrido va de la ceguera física a la visión de la fe.",
+    "imagen": ""
+  },
+  {
+    "id": "lazaro",
+    "nombre": "Lázaro",
+    "milagro": "La resurrección de Lázaro",
+    "referencia": "11,1-44; 12,1-11",
+    "biografia": "Vecino de Betania, hermano de Marta y María, a quien Juan presenta como amigo de Jesús. Cae enfermo y muere; cuando Jesús llega, ya llevaba cuatro días en el sepulcro. Jesús lo llama por su nombre y sale del sepulcro vivo. Este signo provoca que muchos crean, pero también precipita la decisión de las autoridades de dar muerte a Jesús (11,45-53). Poco después, Lázaro está a la mesa con Jesús en Betania, y los sumos sacerdotes piensan también en eliminarlo (12,10).",
+    "imagen": ""
+  },
+  {
+    "id": "marta-maria",
+    "nombre": "Marta y María de Betania",
+    "milagro": "La resurrección de Lázaro",
+    "referencia": "11,1-45; 12,1-8",
+    "biografia": "Hermanas de Lázaro, amigas de Jesús en Betania. Cuando Jesús llega, Marta sale a su encuentro y mantiene con él un diálogo en el que confiesa su fe en que él es el Mesías, el Hijo de Dios (11,20-27). María se queda en casa hasta que Jesús la manda llamar, y llora a sus pies. En la cena de Betania, Marta sirve y María unge los pies de Jesús con un perfume costoso (12,1-3). El Evangelio de Lucas (10,38-42) también las presenta juntas, con Marta atareada en el servicio y María atenta a la palabra.",
+    "imagen": ""
+  },
+  {
+    "id": "pedro",
+    "nombre": "Simón Pedro",
+    "milagro": "La pesca abundante",
+    "referencia": "21,1-19",
+    "biografia": "Pescador de Betsaida, hermano de Andrés. Jesús le da el nombre de Cefas (Pedro), «roca» (1,42). En Juan aparece como portavoz de los discípulos, pero también como quien niega a Jesús tres veces la noche de su arresto (18,15-27). En el capítulo 21, tras la pesca abundante en el lago, se lanza al agua para llegar a Jesús; en la orilla, Jesús le pregunta tres veces si lo ama y le encomienda sus ovejas. Su historia es la de un discípulo débil que es restaurado por el amor.",
+    "imagen": ""
+  }
+]

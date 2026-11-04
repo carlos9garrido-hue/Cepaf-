@@ -1,0 +1,110 @@
+[
+  {
+    "id": "jerusalen",
+    "nombre": "Jerusalén",
+    "region": "Judea",
+    "referencias": "2,13-25; 5,1; 7-10; 12,12-19; 18-19",
+    "historia": "Capital religiosa del pueblo judío y sede del Templo. El Templo había sido reedificado y ampliado por Herodes el Grande desde hacia el 20 a.C., obra aún en curso en tiempos de Jesús (Jn 2,20). Allí se celebraban las grandes fiestas de peregrinación: Pascua, Tabernáculos y Dedicación, en torno a las cuales Juan organiza gran parte de su relato. La ciudad fue destruida por los romanos en el año 70 d.C.",
+    "gobierno": "Judea estaba gobernada por un prefecto romano: Poncio Pilato (26-36 d.C.), que residía habitualmente en Cesarea y subía a Jerusalén en las fiestas. En lo religioso, el sumo sacerdote era José Caifás (hacia 18-36 d.C.), con el apoyo de su suegro Anás, y el Sanedrín tenía autoridad en asuntos internos judíos.",
+    "imagen": ""
+  },
+  {
+    "id": "betesda",
+    "nombre": "Estanque de Betesda",
+    "region": "Jerusalén, Judea",
+    "referencias": "5,1-18",
+    "historia": "Estanque junto a la Puerta de las Ovejas, rodeado de pórticos, donde se reunían enfermos. Las excavaciones han hallado en la zona norte del Templo un conjunto de estanques que suele identificarse con este lugar.",
+    "gobierno": "Dentro de Jerusalén, bajo el prefecto romano Poncio Pilato y la autoridad religiosa del Templo.",
+    "imagen": ""
+  },
+  {
+    "id": "siloe",
+    "nombre": "Estanque de Siloé",
+    "region": "Jerusalén, Judea",
+    "referencias": "9,7.11",
+    "historia": "Depósito de agua en el extremo sur de la ciudad antigua, alimentado por un canal subterráneo desde la fuente de Guihón, obra atribuida al rey Ezequías. Juan explica su nombre como «Enviado» (9,7).",
+    "gobierno": "Dentro de Jerusalén, bajo el prefecto romano Poncio Pilato.",
+    "imagen": ""
+  },
+  {
+    "id": "betania",
+    "nombre": "Betania",
+    "region": "Judea",
+    "referencias": "11,1-18; 12,1-11",
+    "historia": "Aldea a unos quince estadios (cerca de tres kilómetros) de Jerusalén, en la ladera oriental del monte de los Olivos; allí vivían Lázaro, Marta y María. Hoy se identifica con al-Eizariya, cuyo nombre árabe recuerda a Lázaro. Atención: Juan menciona también una «Betania al otro lado del Jordán» (1,28), lugar distinto.",
+    "gobierno": "Territorio de Judea, bajo el prefecto romano Poncio Pilato.",
+    "imagen": ""
+  },
+  {
+    "id": "efrain",
+    "nombre": "Efraín",
+    "region": "Judea",
+    "referencias": "11,54",
+    "historia": "Población cercana al desierto donde Jesús se retiró con sus discípulos antes de la última Pascua. Su ubicación exacta es incierta; suele relacionarse con et-Taiyibeh, al norte de Jerusalén.",
+    "gobierno": "Territorio de Judea, bajo el prefecto romano Poncio Pilato.",
+    "imagen": ""
+  },
+  {
+    "id": "sicar",
+    "nombre": "Sicar",
+    "region": "Samaría",
+    "referencias": "4,1-42",
+    "historia": "Población de Samaría junto al pozo de Jacob, cerca de la antigua Siquem. Los samaritanos, que solo aceptaban la Ley de Moisés, adoraban en el monte Garizín, donde tuvieron su propio templo hasta que fue destruido hacia el 110 a.C. por Juan Hircano. Suele identificarse Sicar con la aldea de Askar.",
+    "gobierno": "En tiempos de Jesús, Samaría formaba parte de la provincia romana de Judea, gobernada por prefectos como Poncio Pilato.",
+    "imagen": ""
+  },
+  {
+    "id": "cana",
+    "nombre": "Caná de Galilea",
+    "region": "Galilea",
+    "referencias": "2,1-11; 4,46-54; 21,2",
+    "historia": "Aldea de Galilea donde Jesús realizó su primer signo (las bodas) y donde después sanó al hijo del funcionario real. Su ubicación es discutida: se proponen Khirbet Qana, al norte de Nazaret, y Kafr Kanna, más cerca de Nazaret. Es también la patria de Natanael (21,2).",
+    "gobierno": "Galilea era tetrarquía de Herodes Antipas (4 a.C.-39 d.C.), vasallo de Roma.",
+    "imagen": ""
+  },
+  {
+    "id": "cafarnaum",
+    "nombre": "Cafarnaúm",
+    "region": "Galilea",
+    "referencias": "2,12; 4,46-54; 6,24-59",
+    "historia": "Pueblo de pescadores y agricultores en la orilla noroeste del mar de Galilea, sobre una ruta comercial. Fue la base de la actividad de Jesús en Galilea. En Juan, el discurso del Pan de Vida (cap. 6) se pronuncia en su sinagoga. Las excavaciones muestran casas antiguas y los restos de una sinagoga de época posterior (siglos IV-V).",
+    "gobierno": "Territorio de Herodes Antipas, tetrarca de Galilea y Perea. El «funcionario real» de Jn 4,46 pudo estar al servicio suyo.",
+    "imagen": ""
+  },
+  {
+    "id": "tiberiades",
+    "nombre": "Tiberíades",
+    "region": "Galilea",
+    "referencias": "6,1.23; 21,1",
+    "historia": "Ciudad fundada por Herodes Antipas hacia el año 18-20 d.C. en la orilla occidental del lago, en honor del emperador Tiberio. Juan llama al lago «mar de Tiberíades», nombre que refleja el uso de su época.",
+    "gobierno": "Fue la capital de la tetrarquía de Herodes Antipas.",
+    "imagen": ""
+  },
+  {
+    "id": "betsaida",
+    "nombre": "Betsaida",
+    "region": "Gaulanítide, al nordeste del lago",
+    "referencias": "1,44; 12,21",
+    "historia": "Patria de Andrés, Pedro y Felipe. Era una aldea de pescadores cerca de la desembocadura del Jordán en el lago; Filipo el tetrarca la engrandeció y le dio el nombre de Julias.",
+    "gobierno": "Filipo, tetrarca de Iturea y Traconítide (4 a.C.-34 d.C.), hijo de Herodes el Grande.",
+    "imagen": ""
+  },
+  {
+    "id": "nazaret",
+    "nombre": "Nazaret",
+    "region": "Galilea",
+    "referencias": "1,45-46; 18,5.7; 19,19",
+    "historia": "Aldea pequeña y poco conocida en las colinas de Galilea. Natanael duda de que de allí pueda venir algo bueno, y el letrero de la cruz llama a Jesús «de Nazaret».",
+    "gobierno": "Territorio de Herodes Antipas, tetrarca de Galilea.",
+    "imagen": ""
+  },
+  {
+    "id": "contexto",
+    "nombre": "Panorama político de la época",
+    "region": "Imperio romano, Palestina",
+    "referencias": "18-19",
+    "historia": "El mundo de Jesús estaba bajo dominio romano. El pueblo judío conservaba cierta autonomía religiosa y un sistema local de gobierno, pero dependía de Roma en lo político y fiscal.",
+    "gobierno": "Emperador: Tiberio (14-37 d.C.). Prefecto de Judea y Samaría: Poncio Pilato (26-36 d.C.). Tetrarca de Galilea y Perea: Herodes Antipas (4 a.C.-39 d.C.). Tetrarca de Iturea y Traconítide: Filipo (4 a.C.-34 d.C.). Sumo sacerdote: José Caifás (hacia 18-36 d.C.), con Anás como figura influyente.",
+    "imagen": ""
+  }
+]
