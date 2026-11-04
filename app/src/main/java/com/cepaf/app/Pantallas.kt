@@ -200,14 +200,21 @@ fun ListaCiudades(alElegir: (String) -> Unit) {
     Pantalla("Ciudades y lugares") { p ->
         LazyColumn(Modifier.padding(p)) {
             items(Datos.ciudades) { c ->
-                Column(
+                Row(
                     Modifier
                         .fillMaxWidth()
                         .clickable { alElegir(c.id) }
-                        .padding(horizontal = 16.dp, vertical = 14.dp)
+                        .padding(horizontal = 16.dp, vertical = 12.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(12.dp)
                 ) {
-                    Text(c.nombre, style = MaterialTheme.typography.titleMedium)
-                    Text(c.region, style = MaterialTheme.typography.bodySmall)
+                    if (c.imagen != null) {
+                        ImagenAsset(c.imagen, Modifier.height(56.dp).fillMaxWidth(0.2f).clip(MaterialTheme.shapes.small))
+                    }
+                    Column {
+                        Text(c.nombre, style = MaterialTheme.typography.titleMedium)
+                        Text(c.region, style = MaterialTheme.typography.bodySmall)
+                    }
                 }
                 HorizontalDivider()
             }
