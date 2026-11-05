@@ -40,6 +40,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.BaselineShift
 import androidx.compose.ui.text.withStyle
@@ -348,6 +349,25 @@ fun LecturaTema(numero: Int, alVolver: () -> Unit) {
             }
             items(tema.bloques) { b ->
                 when (b.tipo) {
+                    "seccion" -> Text(
+                        b.texto.orEmpty(),
+                        style = MaterialTheme.typography.titleLarge,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.secondary,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
+                    "caja" -> Card(
+                        Modifier.fillMaxWidth(),
+                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+                    ) {
+                        Text(
+                            b.texto.orEmpty(),
+                            fontSize = tam.sp,
+                            lineHeight = (tam * 1.45f).sp,
+                            fontStyle = FontStyle.Italic,
+                            modifier = Modifier.padding(16.dp)
+                        )
+                    }
                     "subtitulo" -> Text(
                         b.texto.orEmpty(),
                         style = MaterialTheme.typography.titleMedium,

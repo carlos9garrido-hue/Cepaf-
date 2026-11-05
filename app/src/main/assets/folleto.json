@@ -78,7 +78,7 @@
         },
         {
           "tipo": "parrafo",
-          "texto": "La “Lectio Divina”, como decía Guido II, es “la escalera de los monjes por la que se elevan de la tierra al cielo, compuesta en realidad de pocos peldaños, pero de inmensa e increíble magnitud. Su parte inferior se apoya en la tierra, mientras que la superior penetra las nubes y escruta los secretos del cielo y consta de cuatro escalones: La lectura busca la dulzura de la vida feliz, la meditación la halla, la oración la pide, la contemplación la experimenta”."
+          "texto": "La “Lectio Divina”, como decía Guigo II, es “la escalera de los monjes por la que se elevan de la tierra al cielo, compuesta en realidad de pocos peldaños, pero de inmensa e increíble magnitud. Su parte inferior se apoya en la tierra, mientras que la superior penetra las nubes y escruta los secretos del cielo y consta de cuatro escalones: La lectura busca la dulzura de la vida feliz, la meditación la halla, la oración la pide, la contemplación la experimenta”."
         },
         {
           "tipo": "subtitulo",
@@ -183,6 +183,226 @@
         {
           "tipo": "parrafo",
           "texto": "El Evangelio es el libro de la vida del Señor y está escrito para que se convierta en el libro de nuestra vida. No se escribió sólo para entenderlo; leerlo es como encaminarse hacia el umbral del misterio. No sólo hay que leerlo, sino interiorizarlo. La Palabra debe convertirse en forma de tu existencia, como lo fue para Jesús."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "El Discípulo a quien amaba Jesús",
+      "bloques": [
+        {
+          "tipo": "seccion",
+          "texto": "Canto inicial"
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración inicial"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Espíritu Santo, fuente de toda Sabiduría, ilumina nuestra mente y abre nuestro corazón. Haz que esta Palabra sea viva y eficaz en nosotros. Ayúdanos, no sólo a entender lo que leemos, sino a hacer vida lo que aprendemos. Que tu verdad nos guíe, nos corrija y nos dé la perseverancia para seguir a Jesús.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Lectura"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué dice la Palabra? (Leer el texto bíblico dos o tres veces)"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "Texto Bíblico: Juan 13, 21-26: “El discípulo a quien amaba Jesús”"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Tras decir estas cosas, Jesús se conmovió en su espíritu y dijo con toda claridad: ‘En verdad les digo: uno de ustedes me va a entregar’. Los discípulos se miraron unos a otros, pues no sabían a quién se refería. Uno de sus discípulos, el que Jesús amaba, estaba recostado junto a él en la mesa, y Simón Pedro le hizo señas para que le preguntara de quién hablaba. Se volvió hacia Jesús y le preguntó: ‘Señor, ¿quién es?’. Jesús le contestó: ‘Voy a mojar un pedazo de pan en el plato. Aquél al cual se lo dé, ése es’. Jesús mojó un pedazo de pan y se lo dio a Judas Iscariote, hijo de Simón”."
+        },
+        {
+          "tipo": "caja",
+          "texto": "Otros textos: Juan 19,25; Juan 20,2; Juan 21,7.20.24."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Preguntas para reflexionar"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de la lectura se toman unos momentos para reflexionar en silencio, acerca de una o más de las siguientes preguntas:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "¿Alguna vez me he sentido amado por Dios? ¿Cuándo?"
+            },
+            {
+              "texto": "¿He vivido situaciones en las que he sentido que he traicionado a Jesús? ¿Cómo?"
+            },
+            {
+              "texto": "¿He correspondido al amor que Dios ha tenido hacia mí, amándome primero?"
+            },
+            {
+              "texto": "¿Mi amor a Jesús se transforma en fidelidad al Evangelio?"
+            },
+            {
+              "texto": "¿Somos una comunidad de discípulos amados que se mueven por la fuerza del Espíritu o una comunidad de discípulos cansados que se viven quejando de todo?"
+            }
+          ]
+        },
+        {
+          "tipo": "caja",
+          "texto": "En el grupo, luego del tiempo de reflexión, se invita a los participantes a compartir sus respuestas."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Meditación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué nos dice la Palabra?"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "1. Características del Discípulo Amado"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "titulo": "Cercanía con Jesús:",
+              "texto": "Es descrito como un amigo cercano de Jesús. Durante la Última Cena (Juan13,25) se recostó junto a Jesús, una posición que indicaba honor y gran intimidad con Jesús, y es el confidente de sus secretos."
+            },
+            {
+              "titulo": "Fidelidad a la persona de Jesús y a su proyecto:",
+              "texto": "Fue el único de los discípulos que permaneció al pie de la cruz durante la crucifixión de Jesús, mostrando una fidelidad y devoción excepcionales (Juan 19, 26-27)."
+            },
+            {
+              "titulo": "Confianza a Jesús:",
+              "texto": "Su cercanía a Jesús le permitió ser parte de un círculo íntimo, junto con Pedro y Santiago, y pudo presenciar momentos significativos que otros no vieron (Lc 9,29-30)."
+            },
+            {
+              "titulo": "Humildad:",
+              "texto": "En sus escritos nunca se identifica por su nombre, refiriéndose a sí mismo simplemente como \"el discípulo a quien Jesús amaba\" (Juan 21:20; 23-24), lo cual puede interpretarse como un rasgo de humildad. Se trata del discípulo anónimo que introdujo a Pedro en la casa del sumo sacerdote, la noche que prendieron a Jesús (18,15-16)."
+            },
+            {
+              "titulo": "Encargo de una misión especial:",
+              "texto": "Jesús, desde la cruz, le confió el cuidado de su madre, María, un acto que resalta la confianza y el afecto que Jesús sentía por él (Juan 19,27)."
+            },
+            {
+              "titulo": "Temperamento transformado:",
+              "texto": "Inicialmente, Jesús apodó a Juan y a su hermano Santiago \"Hijos del trueno\" (Mc 3,17), debido a su temperamento impetuoso e intolerante. Sin embargo, a través de su relación con Jesús, se transformó en un apóstol que enfatizaba el amor en sus escritos (sus cartas están llenas de referencias al amor fraternal)."
+            },
+            {
+              "titulo": "Fe sólida:",
+              "texto": "Fue el primero en creer en la resurrección al entrar en la tumba vacía de Jesús, incluso antes que Pedro. Es el primero en reconocer a Jesús a la orilla del lago. Al final del Evangelio se nos dice que el discípulo amado es el que “da testimonio de estas cosas y las ha escrito” (21,24)."
+            }
+          ]
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "2. Llamados a ser discípulo de Jesús"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El discípulo amado del cuarto Evangelio es para nosotros un modelo de discípulo de Jesús con el que todos los creyentes, de todos los tiempos, debemos tratar de asemejarnos. También nosotros somos llamados a ser discípulos y a sentirnos amados. Discípulo es el que se relaciona con el Maestro de un modo personal. El discípulo se deja formar por su Maestro Jesús, permaneciendo a la escucha de la Palabra, viviendo la fe en la comunidad y la celebración de los sacramentos."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La comparación de la vid (Juan15,1) insiste sobre todo en la unión personal y directa del sarmiento con la vid (con Jesús), y en la comunión fraterna de amor (17,22). Es decir que no se puede permanecer en el amor a Jesús sin permanecer en el amor a los hermanos (15,12)."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El evangelista Juan no atribuye gran importancia a ser “apóstol” o a ser miembro de “los Doce”. La condición de “discípulo” parece ser lo única verdaderamente importante en la comunidad cristiana."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ésta sería una buena corrección contra cualquier tipo de práctica en la Iglesia que separe entre “estados” dentro de la Iglesia, valorando excesivamente determinados ministerios."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Ser discípulo para Juan es, ante todo, creer en la resurrección. Ser discípulo es “permanecer en su Palabra” (Juan 8,31), acompañar a Jesús en su pasión. Ser discípulo para Juan significa ser contemplativo de la gloria de Dios que se revela en Jesús crucificado y en su corazón abierto. Ser discípulo para Juan es acoger como propia toda la herencia del Maestro, tomando especialmente a su Madre como madre propia, y dejándose así regenerar de nuevo. Ciertamente, todo lo anterior es válido para nosotros, que somos discípulos y estamos llamados a hacer discípulos que sigan a Jesús."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "3. Sabernos amados por Jesús"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Experimentarse amado es el comienzo de una relación personal con Jesús. No basta con saber que Dios ama a la humanidad. Esto es algo demasiado amplio como para cambiar la propia vida. Como dice San Bernardo, no estamos “perdidos en Dios” como una gota de agua en un barril de vino o como el hierro en el fuego, sino que en Dios nos encontramos cada uno amados personalmente, como alguien único y especial."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Sólo cuando hemos descubierto que somos amados por Dios, de un modo único e irrepetible, podremos descubrir en los demás la misma manifestación nueva y única del mismo amor y entrar en comunión con ella. Lo expresan con claridad y sencillez los escritos de la comunidad del discípulo amado, el Evangelio y las cartas: “Nosotros hemos conocido el amor que Dios nos tiene y hemos creído en Él” (1 Jn 4,16)."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La primera mención del discípulo amado se hace en el contexto de la Cena, donde se nos dice que estaba reclinado sobre el pecho de Jesús (Juan13,25). Todos somos invitados a penetrar en esta intimidad y a convertirnos, también, así en discípulos amados, conocedores de sus secretos y testigos de su amor."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me hace decir a Dios la Palabra?"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "De manera espontánea los hermanos pueden hacer una oración en comunidad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Contemplación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dios me mira y yo lo miro..."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cierra los ojos un momento e imagina que estás con los discípulos en la cena de despedida; escucha a Jesús. Aférrate a esta verdad: “Habiendo amado a los suyos que quedaban en el mundo, los amó hasta el extremo” (Jn 13,1)."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Acción"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En este momento, de manera personal o como comunidad, se pueden proponer unos compromisos para ponerlos en práctica. Proponemos los siguientes:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Establecer un momento diario de silencio contemplativo (al menos 15 minutos). No se trata de pedir cosas, sino de “escuchar los latidos” del Maestro a través de la lectura pausada de la Palabra."
+            },
+            {
+              "texto": "Identificar una situación de “crucifixión” en tu entorno (una persona enferma, alguien solo o una causa social difícil) y hacerte presente. No necesariamente para solucionar el problema, sino para acompañar con una presencia fiel y física."
+            },
+            {
+              "texto": "Fomentar una relación cercana con María, no como una figura lejana, sino integrando sus virtudes (humildad, servicio, escucha) en tu vida cotidiana y familiar. Puedes dedicar un espacio de tu hogar a un altar sencillo que recuerde esta acogida."
+            },
+            {
+              "texto": "Haz sentir a alguien de tu entorno (especialmente a los más “invisibles”) que es importante y amado. El amor de Dios se hace creíble cuando un discípulo trata a los demás con la misma predilección con la que Cristo lo trató a él."
+            }
+          ]
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración final"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, te damos gracias por habernos amado a través de tu Hijo. Concédenos la fortaleza para recordar que, aunque el mundo nos odie por causa de tu Nombre, en Jesús tenemos la certeza de ser amados por ti hasta el extremo.\n\nAfirma nuestra esperanza en la promesa: “El que guarda mis mandamientos después de recibirlos, ése es el que me ama. El que me ama a mí será amado por mi Padre, y yo también lo amaré y me manifestaré a él” (Juan 14,21).\n\nQue tu Espíritu nos dé la sabiduría necesaria para dar testimonio en todo momento de tu amor misericordioso.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Canto final"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Terminar con un canto apropiado"
         }
       ]
     }
