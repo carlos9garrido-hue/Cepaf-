@@ -405,6 +405,225 @@
           "texto": "Terminar con un canto apropiado"
         }
       ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Juan el Bautista, la voz que clama en el desierto",
+      "bloques": [
+        {
+          "tipo": "seccion",
+          "texto": "Canto inicial"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere un canto."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración inicial"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Espíritu Santo, ven a nosotros y dispón nuestro corazón para escuchar tu Palabra con fe y sencillez. Que al acercarnos a ella podamos reconocer tu voz, dejarnos iluminar por lo que tú nos quieres comunicar hoy y encontrar en tu Palabra la luz y la fuerza que necesitamos para nuestra vida personal y comunitaria.\n\nTe pedimos que esta Palabra no quede solo en el oído, sino que descienda al corazón y se haga vida en nosotros. Por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Lectura"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué dice la Palabra? (Leer el texto bíblico dos o tres veces)"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "Texto Bíblico: Juan 1,19-28: “Yo soy la voz que clama en el desierto”."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Este fue el testimonio de Juan, cuando los judíos enviaron sacerdotes y levitas desde Jerusalén para preguntarle: ‘¿Quién eres tú?’. Juan lo declaró y no ocultó la verdad: ‘Yo no soy el Mesías’. Le preguntaron: ‘¿Quién eres, entonces? ¿Elías?’. Contestó: ‘No lo soy’. Le dijeron: ‘¿Eres el Profeta?’. Contestó: ‘No’."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Le preguntaron de nuevo: ‘¿Quién eres, entonces? Pues tenemos que llevar una respuesta a los que nos han enviado. ¿Qué dices de ti mismo?’. Juan contestó: ‘Yo soy, como dijo el profeta Isaías, la voz que grita en el desierto: Enderecen el camino del Señor’. Los enviados eran del grupo de los fariseos, y le hicieron otra pregunta: ‘¿Por qué bautizas entonces, si no eres el Mesías, ni Elías, ni el Profeta?’."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Les contestó Juan: ‘Yo bautizo con agua, pero en medio de ustedes hay uno a quien ustedes no conocen, y aunque viene detrás de mí, yo no soy digno de soltarle la correa de su sandalia’. Esto sucedió en Betabará, al otro lado del río Jordán, donde Juan bautizaba”."
+        },
+        {
+          "tipo": "caja",
+          "texto": "Otros textos: Isaías 40,1-5; Juan 1,6-8; Lucas 3,15-16."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Preguntas para reflexionar"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de la lectura se toman unos momentos para reflexionar en silencio acerca de una o más de las siguientes preguntas:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "¿Por qué Juan Bautista no quiere ocupar un lugar que no le corresponde?"
+            },
+            {
+              "texto": "¿Qué significa preparar el camino del Señor en la vida diaria?"
+            },
+            {
+              "texto": "¿Reconozco la presencia de Dios en mi vida, aunque a veces no lo vea claro?"
+            },
+            {
+              "texto": "¿Soy como Juan el Bautista señalando a otros el camino para llegar a Jesús?"
+            },
+            {
+              "texto": "¿Somos una parroquia que, como Juan el Bautista, da testimonio de Jesús por encima de nuestros pensamientos y posturas, o estamos encerrados en defender nuestras verdades y posturas (buscando protagonismo), y olvidamos que lo central es nuestro testimonio en Jesús?"
+            }
+          ]
+        },
+        {
+          "tipo": "caja",
+          "texto": "En el grupo, luego del tiempo de reflexión, se invita a los participantes a compartir sus respuestas."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Meditación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me dice la Palabra? Lo que el testimonio de Juan Bautista nos revela hoy..."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "1. El Testigo del Mesías"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El Evangelio de san Juan presenta a Juan el Bautista, fundamentalmente, como un hombre “enviado de Dios” para dar testimonio de la Luz. Su propósito principal es que todos crean en Jesús a través de su testimonio."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "A pesar de que Juan nació antes que Jesús, el Bautista afirma en este Evangelio: “El que ha venido detrás de mí, ya está delante de mí, porque era antes que yo” (Juan 1,15), reconociendo la divinidad y preexistencia de Cristo."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "2. Juan Bautista, una voz clara en medio de la confusión"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El texto nos presenta a Juan Bautista como un hombre que vive con claridad interior, en medio de un tiempo de confusión y expectativas. Frente a quienes buscan respuestas rápidas y seguridades, Juan no se deja arrastrar por lo que los demás esperan de él, sino que se mantiene fiel a la misión recibida. Algo parecido sucede cuando una persona, aun rodeada de opiniones y presiones, sabe quién es y qué le toca hacer, sin perder el rumbo."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "3. Una Palabra que ilumina la realidad que vivimos"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La voz de Juan no pertenece solo al pasado. También hoy la Palabra de Dios ilumina nuestras situaciones concretas y nos ayuda a descubrir la presencia del Señor en medio de nuestra realidad cotidiana. Es una luz que ayuda a ver mejor el camino, cuando la vida se vuelve confusa y los problemas parecen no tener salida."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "4. Un testimonio que confronta y llama a la conversión"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La actitud de Juan nos confronta con nuestra manera de vivir la fe y nos invita a una conversión realista, que nace de dejarnos interpelar por la Palabra y de revisar nuestras opciones de vida. A veces pasa que una palabra dicha con verdad nos sacude por dentro, nos incomoda, pero también nos ayuda a cambiar y a crecer."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "5. Dejarnos animar y renovar por la Palabra, hoy"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Actualizar este texto significa permitir que la Palabra nos anime, nos fortalezca y renueve nuestra manera de pensar, sentir y actuar como creyentes y como comunidad. Muchas veces, una palabra oportuna es suficiente para recuperar fuerzas y seguir adelante con esperanza, aun cuando el camino sigue siendo exigente."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué digo al Señor como respuesta a su Palabra?"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de escuchar y meditar la Palabra, la oración brota de lo profundo del corazón como una respuesta viva a Dios que nos ha hablado; puede expresarse como alabanza, bendición, acción de gracias, súplica o intercesión."
+        },
+        {
+          "tipo": "caja",
+          "texto": "De manera espontánea, los hermanos pueden hacer una oración en comunidad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Contemplación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dios me mira y yo lo miro..."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cierra los ojos un momento e imagina que estás en el desierto. En medio del silencio, escuchas una voz clara que resuena y te llama a preparar el camino del Señor. Permanece ahí, dejando que el Señor te mire y te hable al corazón."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Aférrate a esta verdad: «Yo soy la voz que clama en el desierto» (Jn 1,23)."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Acción"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "¿Qué me hace vivir y comprometer el Señor a partir de su Palabra?"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En este momento, de manera personal o como comunidad, somos invitados a asumir compromisos concretos que nos ayuden a encarnar la Palabra escuchada, dando testimonio de nuestra fe y preparando el camino del Señor en los ambientes donde vivimos, trabajamos y compartimos la vida cotidiana."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Proponemos, a modo de orientación, los siguientes compromisos:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Dar testimonio explícito de la fe con una palabra clara y respetuosa en el entorno familiar, laboral o comunitario, cuando se presente la ocasión (por ejemplo, expresar con sencillez lo que la fe nos ayuda a vivir, defender con respeto valores cristianos o hablar de Dios sin imponer ni discutir)."
+            },
+            {
+              "texto": "Acompañar a una persona que se haya alejado de la comunidad o de la fe, escuchándola y animándola a retomar el camino (por ejemplo, visitar o llamar a alguien que ya no participa, escuchar sin juzgar, ofrecer cercanía y comprensión)."
+            },
+            {
+              "texto": "Invitar a alguien cercano a participar en un encuentro comunitario, en la vida parroquial o en un espacio de escucha de la Palabra (por ejemplo, extender una invitación personal, acompañar a la persona la primera vez o explicarle con sencillez de qué se trata)."
+            },
+            {
+              "texto": "Revisar de manera personal o comunitaria qué actitudes, palabras o comportamientos están dificultando que otros se acerquen al Señor y disponerse a cambiarlos (por ejemplo, reconocer actitudes de indiferencia, dureza, falta de acogida o incoherencia entre lo que decimos y lo que vivimos)."
+            }
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cada persona o comunidad puede asumir uno de estos compromisos u otro semejante, para vivir como discípulos misioneros y ser, a la manera de Juan Bautista, una voz que anuncia, orienta y prepara el camino del Señor, en medio de nuestra realidad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración final"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, te damos gracias porque sigues hablando a tu pueblo y no nos abandonas. Afirma nuestra esperanza en tu Palabra y concédenos la gracia de ser testigos fieles de tu voz, en medio del mundo. Por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Canto final"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere terminar con un canto apropiado."
+        }
+      ]
     }
   ]
 }
