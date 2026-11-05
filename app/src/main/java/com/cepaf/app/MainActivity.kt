@@ -94,7 +94,15 @@ fun CePaFApp() {
             ) {
                 DetallePersonaje(it.arguments!!.getString("id")!!) { nav.popBackStack() }
             }
-            composable("folleto") { PantallaFolleto() }
+            composable("folleto") {
+                ListaTemas { nav.navigate("folleto/$it") }
+            }
+            composable(
+                "folleto/{tema}",
+                arguments = listOf(navArgument("tema") { type = NavType.IntType })
+            ) {
+                LecturaTema(it.arguments!!.getInt("tema")) { nav.popBackStack() }
+            }
         }
     }
 }

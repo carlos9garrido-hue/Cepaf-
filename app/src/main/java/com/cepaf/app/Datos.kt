@@ -34,8 +34,16 @@ data class PasoLectio(
     val preguntas: List<String>
 )
 
+data class ItemLista(val titulo: String?, val texto: String)
+
+/** tipo: "subtitulo", "parrafo" o "lista". */
+data class Bloque(val tipo: String, val texto: String?, val items: List<ItemLista>)
+data class TemaFolleto(val numero: Int, val titulo: String, val bloques: List<Bloque>)
+data class Folleto(val titulo: String, val temas: List<TemaFolleto>)
+
 /** Carga los contenidos desde la carpeta assets (archivos JSON editables). */
 object Datos {
+    lateinit var folleto: Folleto
     lateinit var evangelio: Evangelio
     lateinit var ciudades: List<Ciudad>
     lateinit var personajes: List<Personaje>
@@ -74,6 +82,25 @@ object Datos {
                 p.getJSONArray("preguntas").let { a -> (0 until a.length()).map { a.getString(it) } }
             )
         }
+        val f = JSONObject(leer(ctx, "folleto.json"))
+        folleto = Folleto(
+            titulo = f.getString("titulo"),
+            temas = f.getJSONArray("temas").objetos().map { t ->
+                TemaFolleto(
+                    numero = t.getInt("numero"),
+                    titulo = t.getString("titulo"),
+                    bloques = t.getJSONArray("bloques").objetos().map { b ->
+                        Bloque(
+                            tipo = b.getString("tipo"),
+                            texto = b.optString("texto").ifBlank { null },
+                            items = b.optJSONArray("items")?.objetos()?.map {
+                                ItemLista(it.optString("titulo").ifBlank { null }, it.getString("texto"))
+                            } ?: emptyList()
+                        )
+                    }
+                )
+            }
+        )
     }
 
     private fun leer(ctx: Context, nombre: String): String =

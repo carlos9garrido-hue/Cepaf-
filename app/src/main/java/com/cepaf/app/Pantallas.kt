@@ -294,13 +294,87 @@ fun DetallePersonaje(id: String, alVolver: () -> Unit) {
 // ---------- Folleto ----------
 
 @Composable
-fun PantallaFolleto() {
-    Pantalla("Folleto formativo") { p ->
-        Box(Modifier.padding(p).fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
-            Text(
-                "Aquí se incluirá el folleto formativo de CePaF en versión digital.",
-                style = MaterialTheme.typography.bodyLarge
-            )
+fun ListaTemas(alElegir: (Int) -> Unit) {
+    Pantalla("Folleto") { p ->
+        LazyColumn(Modifier.padding(p)) {
+            item {
+                Text(
+                    Datos.folleto.titulo,
+                    style = MaterialTheme.typography.headlineSmall,
+                    color = MaterialTheme.colorScheme.primary,
+                    modifier = Modifier.padding(16.dp)
+                )
+            }
+            items(Datos.folleto.temas) { t ->
+                Column(
+                    Modifier
+                        .fillMaxWidth()
+                        .clickable { alElegir(t.numero) }
+                        .padding(horizontal = 16.dp, vertical = 14.dp)
+                ) {
+                    Text("TEMA ${t.numero}", style = MaterialTheme.typography.labelLarge)
+                    Text(t.titulo, style = MaterialTheme.typography.titleMedium)
+                }
+                HorizontalDivider()
+            }
+        }
+    }
+}
+
+@Composable
+fun LecturaTema(numero: Int, alVolver: () -> Unit) {
+    val tema = Datos.folleto.temas.first { it.numero == numero }
+    var tam by remember { mutableFloatStateOf(17f) }
+
+    Pantalla(
+        titulo = "Tema ${tema.numero}",
+        alVolver = alVolver,
+        acciones = {
+            TextButton(onClick = { if (tam > 14f) tam -= 2f }) { Text("A-") }
+            TextButton(onClick = { if (tam < 30f) tam += 2f }) { Text("A+") }
+        }
+    ) { p ->
+        LazyColumn(
+            Modifier.padding(p),
+            contentPadding = PaddingValues(16.dp),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
+            item {
+                Text(
+                    tema.titulo,
+                    style = MaterialTheme.typography.headlineSmall,
+                    color = MaterialTheme.colorScheme.primary
+                )
+            }
+            items(tema.bloques) { b ->
+                when (b.tipo) {
+                    "subtitulo" -> Text(
+                        b.texto.orEmpty(),
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.Bold
+                    )
+                    "lista" -> Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                        b.items.forEach { item ->
+                            Text(
+                                buildAnnotatedString {
+                                    append("•  ")
+                                    if (item.titulo != null) {
+                                        withStyle(SpanStyle(fontWeight = FontWeight.Bold)) { append(item.titulo + " ") }
+                                    }
+                                    append(item.texto)
+                                },
+                                fontSize = tam.sp,
+                                lineHeight = (tam * 1.45f).sp
+                            )
+                        }
+                    }
+                    else -> Text(
+                        b.texto.orEmpty(),
+                        fontSize = tam.sp,
+                        lineHeight = (tam * 1.45f).sp
+                    )
+                }
+            }
         }
     }
 }
