@@ -624,6 +624,223 @@
           "texto": "Se sugiere terminar con un canto apropiado."
         }
       ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Juan el Bautista, el que da testimonio del Cordero de Dios",
+      "bloques": [
+        {
+          "tipo": "seccion",
+          "texto": "Canto inicial"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere un canto."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración inicial"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, venimos ante ti con el deseo sincero de escucharte y de dejarnos conducir por tu Palabra. Abre nuestros ojos y nuestro corazón para reconocer la presencia de tu Hijo en medio de nuestra vida, aun cuando muchas veces pasa desapercibido.\n\nConcédenos la gracia de detenernos, de mirar con fe y de dejarnos tocar por Él, para que al escucharlo podamos descubrir el sentido profundo de nuestra vida y caminar con mayor confianza en tu amor. Por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Lectura"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué dice la Palabra? (Leer el texto bíblico dos o tres veces)"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "Texto bíblico: Juan 1,29-34: “Este es el Cordero de Dios”"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Al día siguiente, Juan vio a Jesús que venía a su encuentro y exclamó: ‘Ahí viene el Cordero de Dios, el que carga con el pecado del mundo. De él yo hablaba al decir: «Detrás de mí viene un hombre que ya está delante de mí, porque era antes que yo». Yo no lo conocía, pero mi bautismo con agua y mi venida misma eran para él, para que se diera a conocer a Israel.’"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Y Juan dio este testimonio: ‘He visto al Espíritu bajar del cielo como paloma y quedarse sobre él. Yo no lo conocía, pero Aquel que me envió a bautizar con agua me dijo también: «Verás al Espíritu bajar sobre Aquel que ha de bautizar con el Espíritu Santo, y se quedará en él». Sí, yo lo he visto, y declaro que este es el Elegido de Dios’”."
+        },
+        {
+          "tipo": "caja",
+          "texto": "Otros textos: Isaías 53,4-7; Éxodo 12,1-13; 1 Pedro 1,18-19."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Preguntas para reflexionar"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de la lectura, se toman unos momentos para reflexionar en silencio acerca de una o más de las siguientes preguntas:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "¿Quiénes aparecen en el relato y qué papel tiene cada uno?"
+            },
+            {
+              "texto": "¿Dónde se desarrolla la escena y qué ambiente nos presenta el texto?"
+            },
+            {
+              "texto": "¿Qué palabras o expresiones se repiten o llaman más la atención?"
+            },
+            {
+              "texto": "¿Qué dice Juan Bautista sobre Jesús y cómo lo dice?"
+            },
+            {
+              "texto": "¿Qué imágenes o símbolos aparecen en el texto (Cordero, Espíritu, testimonio)?"
+            },
+            {
+              "texto": "¿Qué partes del texto entiendo con claridad y cuáles me resultan más difíciles?"
+            },
+            {
+              "texto": "¿Somos una parroquia que, como Juan el Bautista, da testimonio de Jesús como el Cordero de Dios y llevamos a los alejados a encontrarse y reconocer a Jesús, o estamos acomodados a vivir solo los sacramentos y las pastorales habituales?"
+            }
+          ]
+        },
+        {
+          "tipo": "caja",
+          "texto": "En el grupo, luego del tiempo de reflexión, se invita a los participantes a compartir sus respuestas."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Meditación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me dice la Palabra? Reconocer a Jesús a partir de lo que el texto nos muestra."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "1. Señala a Jesús como el Cordero"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "San Juan es el único Evangelio donde Juan el Bautista otorga a Jesús el título de “Cordero de Dios que quita el pecado del mundo”, al verlo pasar."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En el capítulo 3 se describe a sí mismo como el amigo del esposo, quien no es el protagonista de la boda (la llegada del Reino), sino aquel que se alegra infinitamente al oír la voz del esposo (Jesús)."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "2. Juan Bautista habla desde lo que ha visto y escuchado"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de observar con atención el texto, descubrimos que Juan Bautista no habla desde ideas propias ni desde lo que otros dicen. El Evangelio nos muestra que Juan ve a Jesús, escucha la voz de Dios y da testimonio de lo que ha experimentado. Su manera de hablar es clara y directa, y nace de una experiencia personal. Es como cuando una persona no repite chismes ni opiniones, sino que habla porque ha visto algo con sus propios ojos y sabe que es verdad."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "3. El Cordero de Dios: una imagen que revela el modo de actuar de Dios"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El texto nos presenta una imagen que llama la atención: Juan no describe a Jesús con palabras de poder o fuerza, sino como el Cordero de Dios. Al meditar esta imagen, comprendemos que Dios se manifiesta de una manera distinta a lo que muchas veces esperamos. Jesús no viene a imponerse, sino a entregarse; no viene a dominar, sino a servir. Es como cuando alguien elige hacer el bien y ser fiel a lo correcto, aunque ese camino no sea el más fácil ni el más aplaudido. En Él se revela un Dios cercano, fiel a los valores del Reino: la verdad, la justicia, la misericordia y el amor."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "4. Reconocer a Jesús es un camino que se recorre con el tiempo"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El mismo Juan reconoce que, al principio, no conocía del todo a Jesús. El texto nos deja ver que fue Dios quien le permitió descubrir quién era realmente. Esto nos ayuda a entender que la fe no siempre es inmediata ni clara desde el inicio. Es como cuando, con el paso del tiempo, comprendemos mejor a una persona o el sentido de una experiencia que al principio no veíamos clara."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "5. Dejar que el testimonio nos conduzca a la confianza"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Al escuchar el testimonio de Juan, el texto nos invita a pasar de la simple observación a la confianza. Creer en Jesús no significa saber muchas cosas, sino dejarnos acompañar por Él y fiarnos de su manera de actuar. Cuando lo reconocemos como el Cordero de Dios, su presencia comienza a iluminar nuestra vida, a darnos paz en medio de las preocupaciones y a sostenernos cuando el camino se vuelve difícil."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de escuchar y meditar la Palabra, la oración brota como una respuesta sencilla a Jesús que se nos ha revelado como el Cordero de Dios. Ante Él, presentamos lo que somos y lo que vivimos, expresando con libertad nuestra alabanza, nuestra acción de gracias, nuestras peticiones y nuestra confianza."
+        },
+        {
+          "tipo": "caja",
+          "texto": "De manera espontánea, los hermanos pueden hacer una oración en comunidad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Contemplación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cierra los ojos un momento e imagina que estás junto a Juan Bautista. Delante de ustedes pasa Jesús. Juan lo mira y, con sencillez, lo da a conocer. Tú no necesitas hacer nada ni decir nada: solo quedarte ahí, atento, mirando a Jesús como Juan lo miró."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Permanece en silencio dejando que esa mirada se haga profunda. Acoge en tu corazón el testimonio que escuchas y confía en que Jesús se acerca a tu vida con amor fiel y entregado, tal como eres y en la realidad que hoy vives."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Aférrate a esta Palabra que Juan pronuncia y deja que resuene en tu interior: «Este es el Cordero de Dios» (Jn 1,29)."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Quédate unos momentos en silencio permitiendo que esta Palabra baje al corazón y te ayude a confiar en el modo sencillo y fiel con el que Dios actúa en tu vida."
+        },
+        {
+          "tipo": "caja",
+          "texto": "Se guarda un momento prolongado de silencio."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Acción"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La Palabra que hemos escuchado nos invita a revisar cómo reconocemos a Jesús en nuestra vida y cómo damos testimonio de Él con nuestra manera de vivir."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En este momento, de manera personal o como comunidad, somos llamados a asumir compromisos que reflejen los valores del Reino."
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Cuidar nuestras palabras y actitudes para que reflejen respeto, verdad y coherencia con la fe (por ejemplo, evitar chismes, hablar con respeto en la familia o en el trabajo, no responder con agresividad)."
+            },
+            {
+              "texto": "Dar testimonio de esperanza en medio de las dificultades cotidianas (por ejemplo, no rendirse ante los problemas, animar a otros cuando hay enfermedad, desempleo o preocupación)."
+            },
+            {
+              "texto": "Buscar momentos concretos de oración para reconocer la presencia de Jesús en la vida diaria (por ejemplo, dedicar unos minutos al iniciar o terminar el día, rezar brevemente antes de una decisión importante)."
+            },
+            {
+              "texto": "Vivir las relaciones desde el perdón, la paciencia y la misericordia, también las relaciones de la Iglesia (por ejemplo, dar el primer paso para reconciliarse, escuchar antes de juzgar, tratar con comprensión a quien piensa distinto)."
+            }
+          ]
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración final"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, te damos gracias porque en Jesús nos has mostrado tu rostro cercano y fiel. Afirma nuestra fe para reconocer a tu Hijo en medio de lo cotidiano y para dar testimonio de Él con nuestra manera de vivir.\n\nTe lo pedimos por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Canto final"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere terminar con un canto apropiado."
+        }
+      ]
     }
   ]
 }
