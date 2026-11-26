@@ -1054,6 +1054,265 @@
           "texto": "Se sugiere terminar con un canto apropiado."
         }
       ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Los primeros discípulos",
+      "bloques": [
+        {
+          "tipo": "seccion",
+          "texto": "Canto inicial"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Canto: “Alma misionera”."
+            }
+          ]
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración inicial"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Señor Jesús, tú llamaste a los primeros discípulos para que te siguieran con un corazón abierto. Hoy, también, nos llamas a nosotros. Danos oídos atentos para escuchar tu Palabra y un corazón dispuesto para seguirte. Envía tu Espíritu Santo para que nos inspire el responder a tu llamada.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Lectura"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué dice la Palabra? (Leer el texto bíblico dos o tres veces)"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "Texto bíblico: Juan 1,35-39"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Al día siguiente, Juan se encontraba de nuevo en el mismo lugar con dos de sus discípulos. Mientras Jesús pasaba, se fijó en él y dijo: ‘Ese es el Cordero de Dios’. Los dos discípulos le oyeron decir esto y siguieron a Jesús."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Jesús se volvió y, al ver que lo seguían, les preguntó: ‘¿Qué buscan?’. Le contestaron: ‘Rabbí (que significa Maestro), ¿dónde vives?’. Jesús les dijo: ‘Vengan y lo verán’. Fueron, vieron dónde vivía y se quedaron con él aquel día. Eran como las cuatro de la tarde”."
+        },
+        {
+          "tipo": "caja",
+          "texto": "Otros textos: Mateo 4,18-22; Marcos 1,16-20; Lucas 5,1-11."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Preguntas para reflexionar"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Preguntas para reflexionar personalmente o en grupo:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "¿Alguna vez me he sentido llamado por Dios? ¿Cuándo?"
+            },
+            {
+              "texto": "¿Quién fue la persona que me hizo conocer a Jesús? ¿Cómo?"
+            },
+            {
+              "texto": "¿Alguna vez he pensado que seguir a Jesús es solo para algunos?"
+            },
+            {
+              "texto": "¿Qué tan importante es el primer anuncio (kerigma) en mi parroquia o comunidad? ¿Cuánto invertimos (en tiempo y dinero) para provocar el encuentro con Jesús de los servidores y alejados?"
+            },
+            {
+              "texto": "¿Dedicamos tiempo para dejarnos encontrar por Él y seguirlo?"
+            }
+          ]
+        },
+        {
+          "tipo": "caja",
+          "texto": "En el grupo, luego del tiempo de reflexión, se invita a los participantes a compartir sus respuestas."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Meditación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me dice la Palabra?"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "1. Características del primer discipulado"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "titulo": "Conocimiento de Jesús:",
+              "texto": "Es necesario conocer a Jesús y tener un diálogo con Él para poder sentir su llamada. Así como Juan Bautista muestra a sus amigos quién es el Cordero de Dios, así también nosotros hemos necesitado del testimonio de otros para conocerlo (Juan 1,36)."
+            },
+            {
+              "titulo": "Seguir a Jesús:",
+              "texto": "Es la característica más importante de un discípulo. Siempre el discípulo sigue al maestro, hace preguntas y quiere habitar con Él (Juan 1,37). Esta característica, también, nos recuerda que Jesús es el buen pastor y que nosotros, como ovejas del rebaño, estamos llamados a seguirlo de cerca."
+            }
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Seguir a Jesús es la expresión más grande de la fe, porque, aun sin saber hacia dónde va Jesús, nosotros estamos llamados a seguir su camino."
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "titulo": "Cercanía de Jesús:",
+              "texto": "Él se vuelve hacia quienes lo siguen. No es indiferente ante quienes quieren seguir su camino. Jesús nos ve con amor y toma la iniciativa para dialogar con nosotros (Juan 1,38). Es Él quien nos elige (Jn 15,16)."
+            },
+            {
+              "titulo": "Jesús nos cuestiona:",
+              "texto": "Estos textos nos recuerdan que la llamada de Jesús siempre supone una búsqueda y requiere nuestra generosidad al entregar la vida al Señor. La historia de nuestra vocación siempre está llena de preguntas y de cuestionamientos que el Señor nos hace. Él interpela nuestra vida (Juan 1,38). Seguir a Jesús requiere siempre cuestionarnos y poder dialogar con el Señor."
+            },
+            {
+              "titulo": "Aprender de Jesús:",
+              "texto": "Reconocerlo como Maestro es tener una actitud humilde y saber que Él es el “Rabbí”. Solo en Él podremos encontrar las explicaciones que necesitamos en nuestra vida. Natanael llama a Jesús “Hijo de Dios” y “Rey de Israel”; también nosotros estamos llamados a reconocerlo en todo su esplendor, verdadero Dios y verdadero hombre, como el Rey de nuestra vida (Marcos 8,29). Estamos llamados a descubrir en nuestra vida quién es Jesús (Marcos 4,41; Lucas 5,21)."
+            },
+            {
+              "titulo": "Vivir con Él:",
+              "texto": "Los discípulos de la época vivían con sus maestros, es por eso que seguir a Jesús es preguntarnos en dónde vive (Juan 1,38). Estamos llamados a descubrir en dónde permanece Jesús en nuestro tiempo: en el pobre, el enfermo, el necesitado y, también, en el Santísimo Sacramento del altar. Su presencia inunda toda nuestra vida y nos llama a habitar con Él en todas las realidades del mundo. Nos llama a verlo presente en la vida y a permanecer con Él (Juan 1,39)."
+            }
+          ]
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "2. Llamados para estar con Él"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El camino del discípulo inicia junto a Jesús. Significa hacerle compañía, comer lo que come, beber lo que bebe y vivir como vive el Señor. Es necesaria una comunión íntima con el Señor, como nos lo recuerda san Pablo: debemos padecer con Él, morir con Él y resucitar y reinar con Él (Efesios 2,6; Gálatas 2,19; Romanos 8,17)."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El evangelista indica, incluso, la hora en la que Jesús llama a sus discípulos. Este detalle no es menor: “La hora décima” (Juan 1,39) indica el final del día según muchos estudiosos. Indica el final del antiguo Israel y la fundación del nuevo Pueblo de Dios."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Haber sido invitados a cenar junto al Señor es una acción de intimidad y de relación de amor de Jesús por el discípulo. Es, también, una decisión del discípulo el abrir la puerta del corazón y seguir a Jesús (Apocalipsis 3,20). Ningún discípulo puede olvidar esa primera cena con el Señor."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Los evangelistas no hacen tanto hincapié en el ser “apóstol” o a ser miembro de “los Doce”. La condición de “discípulo” parece ser la única verdaderamente importante. Es importante en la Iglesia ser conscientes de que estamos llamados a ser discípulos, es decir, seguidores del Señor. Todos tenemos funciones distintas dentro del mismo rebaño, pero todos estamos llamados a seguir al único pastor que es Jesús."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Por tanto, ser discípulo es creer en la resurrección. Ser discípulo es “permanecer en su palabra” (Juan 8,31); acompañar a Jesús en su pasión significa ser contemplativo de la gloria de Dios que se revela en Jesús, que está presente en nuestra vida. Ser discípulo es acoger como propia toda la herencia del Maestro, tomando especialmente a su Madre como madre propia, como lo hizo el discípulo amado, siendo parte del nuevo Pueblo de Dios."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "3. Un llamado llama a otros, en cadena"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "A pesar de que la experiencia del llamado es personal e inicia con el sentirse amado, comienzo de una relación personal, hay siempre una comunidad que se va integrando. No basta con saber que Dios ama a la humanidad. El amor recibido no puede más que ser anunciado, proclamado con emoción. En el caso de Felipe, es Jesús quien se hace encontradizo y lo llama. En el caso de Pedro y Natanael, ambos son buscados y traídos a Jesús por los primeros discípulos, Andrés y Felipe."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En todos los casos hay siempre primero un cruce de miradas. El Señor mira con misericordia, y el discípulo ve a otros y proclama ese encuentro. El pasaje que compartimos tiene siempre atención al verbo “ver” o sus sinónimos. Podemos verlo especialmente en el encuentro con Natanael."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Felipe y Andrés son los dos interlocutores y ministros de Jesús en varias escenas, como la multiplicación de los panes (Juan 6,7-8). Son los enviados de Jesús a ver a sus hermanos. Tanto Andrés como Felipe son discípulos que llevan un nombre griego. Todo se desarrolla en Betsaida y sus alrededores. Betsaida es una ciudad de origen semita y griega. Este contexto nos deja ver que los primeros discípulos ya están destinados a llevar esa mirada de Jesús, incluso a pueblos que no son judíos."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La gran riqueza de la comunidad eclesial es esa pluralidad, una Iglesia en donde todos puedan encontrar esa mirada de Jesús y en donde sus diferencias culturales, realidades sociales, se conviertan en una riqueza."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El Señor nos anuncia que veremos cosas mayores. La idea de ángeles subiendo y bajando sobre el Hijo del hombre tiene relación con el sueño de Jacob en Betel (Génesis 28,10-17). Natanael se encuentra al final del Evangelio en la lista de discípulos que verán al resucitado, junto al lago (Juan 21,2). La promesa de Jesús se hace realidad para sus discípulos. Él estará siempre."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me hace decir a Dios la Palabra?"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "De manera espontánea, los hermanos pueden hacer una oración en donde queden al descubierto la pluralidad de los carismas y la necesidad de seguir a Jesús."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Contemplación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dios me mira y yo lo miro…"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cierra los ojos un momento e imagina que Jesús te mira. Contempla su mirada de amor y cercanía. Escucha la voz del Señor que te dice: “Sígueme”."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Acción"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En este momento, de manera personal o como comunidad, se pueden proponer unos compromisos para ponerlos en práctica."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Proponemos los siguientes:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Dedica un tiempo de silencio para responder honestamente: ¿Qué estoy buscando realmente en mi vida espiritual o en mi relación con Dios? ¿Buscas soluciones mágicas, bienestar personal o un encuentro real?"
+            },
+            {
+              "texto": "Priorizar la oración de “estar”: En lugar de solo pedir, practica la oración de contemplación o silencio durante 10 o 15 minutos diarios, simplemente “quedándote con Él” como hicieron los discípulos aquel día."
+            },
+            {
+              "texto": "Visitar el Sagrario o un lugar de oración: Realiza una acción física de acudir a un espacio que represente la “morada” del Señor para cultivar esa cercanía. Puedes también leer los primeros dos capítulos del Evangelio de san Juan. Un texto pequeño por día y meditarlo, hacerlo oración."
+            },
+            {
+              "texto": "Jesús no explica quién es, sino que invita a vivir la experiencia. Aceptar una nueva experiencia comunitaria: Si nunca has participado en un grupo de estudio bíblico, voluntariado o retiro, asiste a uno. El conocimiento de Jesús es experimental, no solo intelectual."
+            },
+            {
+              "texto": "Identificar a tu “Juan el Bautista”: Reconoce y agradece a las personas que te han señalado el camino hacia Jesús. Una acción concreta sería escribirles un mensaje de agradecimiento."
+            },
+            {
+              "texto": "Invitar a otros sin presionar: Utiliza la frase “Ven y ve” con alguien que esté pasando por un momento difícil o que tenga inquietudes espirituales, invitándole a conocer tu comunidad o compartiendo un recurso que te haya ayudado (un libro, video o podcast espiritual)."
+            }
+          ]
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración final"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Señor Jesús, como a los primeros discípulos junto al lago, hoy nos llamas por nuestro nombre: danos un corazón disponible para dejar nuestras redes, confiar en tu Palabra y seguirte con alegría.\n\nAyúdanos a descubrir que tú habitas con nosotros. Déjanos vivir contigo y habita tú en nosotros. Que podamos seguirte y anunciar con alegría a nuestros hermanos que tú estás presente por los siglos de los siglos.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Canto final"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Canto: “Pescador de hombres”."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
