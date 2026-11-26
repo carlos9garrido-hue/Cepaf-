@@ -398,3 +398,52 @@ fun LecturaTema(numero: Int, alVolver: () -> Unit) {
         }
     }
 }
+
+// ---------- Bienvenida ----------
+
+private val CARTA_BIENVENIDA = listOf(
+    "Como pastor de esta Arquidiócesis de Santiago de Guatemala, me es grato presentarles esta guía de encuentros con algunos personajes del Evangelio de San Juan; es una herramienta pensada para acompañar el caminar de nuestra Iglesia particular en esta etapa posterior al segundo sínodo arquidiocesano, en la cual estamos haciendo especial énfasis en la conversión personal y pastoral. Por lo mismo, no es solo un texto de estudio, sino una invitación a un encuentro renovado con Jesucristo.",
+    "El corazón de esta propuesta es la conversión, entendida en dos dimensiones inseparables: la conversión personal y la conversión pastoral.",
+    "En cuanto a la conversión personal, este nuevo manual busca sacudir el corazón de cada fiel. Estoy convencido de que no basta con conocer la doctrina; es necesario que la Palabra de Dios transforme nuestras actitudes, sane nuestras heridas y nos mueva a una vida de mayor coherencia y santidad, y esto solo se logra con un sincero proceso de renovación espiritual.",
+    "Por otra parte, la conversión pastoral: como comunidad cristiana estamos llamados a pasar de una “pastoral de mera conservación” a una decididamente misionera. Este material nos desafía a revisar nuestras estructuras y métodos, para que todo en nuestra Iglesia —parroquias, movimientos, colegios y demás instancias eclesiales presentes en la Arquidiócesis— esté orientado a la misión y evangelización, que es nuestra prioridad nacida del segundo sínodo.",
+    "Los invito a recibir este libro virtual con apertura de espíritu, utilizándolo en sus grupos y familias como un mapa que nos ayude a transitar este tiempo de gracia. Que el Espíritu Santo guíe este proceso de renovación para que seamos una Iglesia viva, en salida samaritana y profundamente fiel al Evangelio."
+)
+
+@Composable
+fun PantallaBienvenida(alAbrirLectio: () -> Unit) {
+    Pantalla("Bienvenida") { p ->
+        Column(
+            Modifier
+                .padding(p)
+                .verticalScroll(rememberScrollState())
+                .padding(20.dp),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
+            ImagenAsset(
+                "logo.png",
+                Modifier
+                    .height(140.dp)
+                    .fillMaxWidth()
+            )
+            Text(
+                "Renovando nuestro encuentro con Jesús",
+                style = MaterialTheme.typography.headlineSmall,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.primary
+            )
+            Text("Libro virtual · CePaF", style = MaterialTheme.typography.labelLarge)
+            HorizontalDivider()
+            Text("Estimados hermanos y hermanas en Cristo:", fontWeight = FontWeight.Bold)
+            CARTA_BIENVENIDA.forEach {
+                Text(it, style = MaterialTheme.typography.bodyLarge, lineHeight = 26.sp)
+            }
+            Text("Con mi bendición paternal,", style = MaterialTheme.typography.bodyLarge)
+            Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.End) {
+                Text("+ Gonzalo de Villa y Vásquez", fontWeight = FontWeight.Medium)
+                Text("Arzobispo", fontStyle = FontStyle.Italic)
+            }
+            HorizontalDivider()
+            TextButton(onClick = alAbrirLectio) { Text("Conocer los pasos de la Lectio Divina") }
+        }
+    }
+}

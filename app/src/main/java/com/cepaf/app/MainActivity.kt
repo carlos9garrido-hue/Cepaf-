@@ -36,13 +36,13 @@ class MainActivity : ComponentActivity() {
 fun CePaFApp() {
     val nav = rememberNavController()
     val entrada by nav.currentBackStackEntryAsState()
-    val ruta = entrada?.destination?.route ?: "evangelio"
+    val ruta = entrada?.destination?.route ?: "bienvenida"
     val pestanas = listOf(
-        "evangelio" to "Evangelio",
-        "lectio" to "Lectio",
-        "glosario" to "Ciudades",
+        "bienvenida" to "Bienvenida",
+        "folleto" to "Folleto",
         "personajes" to "Personajes",
-        "folleto" to "Folleto"
+        "glosario" to "Ciudades",
+        "evangelio" to "Evangelio"
     )
 
     Scaffold(
@@ -53,7 +53,7 @@ fun CePaFApp() {
                         selected = ruta.substringBefore("/") == destino,
                         onClick = {
                             nav.navigate(destino) {
-                                popUpTo("evangelio") { saveState = true }
+                                popUpTo("bienvenida") { saveState = true }
                                 launchSingleTop = true
                                 restoreState = true
                             }
@@ -65,7 +65,10 @@ fun CePaFApp() {
             }
         }
     ) { relleno ->
-        NavHost(nav, startDestination = "evangelio", modifier = Modifier.padding(relleno)) {
+        NavHost(nav, startDestination = "bienvenida", modifier = Modifier.padding(relleno)) {
+            composable("bienvenida") {
+                PantallaBienvenida { nav.navigate("lectio") }
+            }
             composable("evangelio") {
                 ListaCapitulos { nav.navigate("evangelio/$it") }
             }
