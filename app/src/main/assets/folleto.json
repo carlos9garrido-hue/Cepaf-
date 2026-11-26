@@ -4,6 +4,7 @@
     {
       "numero": 1,
       "titulo": "Los personajes en el Evangelio de San Juan",
+      "imagen": "tema1.png",
       "bloques": [
         {
           "tipo": "parrafo",
@@ -63,6 +64,7 @@
     {
       "numero": 2,
       "titulo": "La lectura orante de la Palabra de Dios",
+      "imagen": "tema2.png",
       "bloques": [
         {
           "tipo": "subtitulo",
@@ -189,6 +191,7 @@
     {
       "numero": 3,
       "titulo": "El Discípulo a quien amaba Jesús",
+      "imagen": "tema3.png",
       "bloques": [
         {
           "tipo": "seccion",
@@ -409,6 +412,7 @@
     {
       "numero": 4,
       "titulo": "Juan el Bautista, la voz que clama en el desierto",
+      "imagen": "tema4.png",
       "bloques": [
         {
           "tipo": "seccion",
@@ -628,6 +632,7 @@
     {
       "numero": 5,
       "titulo": "Juan el Bautista, el que da testimonio del Cordero de Dios",
+      "imagen": "tema5.png",
       "bloques": [
         {
           "tipo": "seccion",
@@ -845,6 +850,7 @@
     {
       "numero": 6,
       "titulo": "Juan el Bautista, disminuir para que Cristo crezca",
+      "imagen": "tema6.png",
       "bloques": [
         {
           "tipo": "seccion",
@@ -1058,6 +1064,7 @@
     {
       "numero": 7,
       "titulo": "Los primeros discípulos",
+      "imagen": "tema7.png",
       "bloques": [
         {
           "tipo": "seccion",

@@ -38,7 +38,7 @@ data class ItemLista(val titulo: String?, val texto: String)
 
 /** tipo: "subtitulo", "parrafo" o "lista". */
 data class Bloque(val tipo: String, val texto: String?, val items: List<ItemLista>)
-data class TemaFolleto(val numero: Int, val titulo: String, val bloques: List<Bloque>)
+data class TemaFolleto(val numero: Int, val titulo: String, val imagen: String?, val bloques: List<Bloque>)
 data class Folleto(val titulo: String, val temas: List<TemaFolleto>)
 
 /** Carga los contenidos desde la carpeta assets (archivos JSON editables). */
@@ -89,6 +89,7 @@ object Datos {
                 TemaFolleto(
                     numero = t.getInt("numero"),
                     titulo = t.getString("titulo"),
+                    imagen = t.optString("imagen").ifBlank { null },
                     bloques = t.getJSONArray("bloques").objetos().map { b ->
                         Bloque(
                             tipo = b.getString("tipo"),

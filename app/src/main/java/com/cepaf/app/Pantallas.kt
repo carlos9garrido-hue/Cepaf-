@@ -11,6 +11,7 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -308,14 +309,21 @@ fun ListaTemas(alElegir: (Int) -> Unit) {
                 )
             }
             items(Datos.folleto.temas) { t ->
-                Column(
+                Row(
                     Modifier
                         .fillMaxWidth()
                         .clickable { alElegir(t.numero) }
-                        .padding(horizontal = 16.dp, vertical = 14.dp)
+                        .padding(horizontal = 16.dp, vertical = 12.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(12.dp)
                 ) {
-                    Text("TEMA ${t.numero}", style = MaterialTheme.typography.labelLarge)
-                    Text(t.titulo, style = MaterialTheme.typography.titleMedium)
+                    if (t.imagen != null) {
+                        ImagenAsset(t.imagen, Modifier.height(64.dp).fillMaxWidth(0.3f).clip(MaterialTheme.shapes.small))
+                    }
+                    Column {
+                        Text("TEMA ${t.numero}", style = MaterialTheme.typography.labelLarge)
+                        Text(t.titulo, style = MaterialTheme.typography.titleMedium)
+                    }
                 }
                 HorizontalDivider()
             }
@@ -341,6 +349,14 @@ fun LecturaTema(numero: Int, alVolver: () -> Unit) {
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(14.dp)
         ) {
+            if (tema.imagen != null) {
+                item {
+                    ImagenAsset(
+                        tema.imagen,
+                        Modifier.fillMaxWidth().aspectRatio(16f / 9f).clip(MaterialTheme.shapes.medium)
+                    )
+                }
+            }
             item {
                 Text(
                     tema.titulo,
