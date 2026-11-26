@@ -841,6 +841,219 @@
           "texto": "Se sugiere terminar con un canto apropiado."
         }
       ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Juan el Bautista, disminuir para que Cristo crezca",
+      "bloques": [
+        {
+          "tipo": "seccion",
+          "texto": "Canto inicial"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere un canto."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración inicial"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, venimos ante ti con un corazón abierto para escuchar tu Palabra. Concédenos la gracia de dejarnos conducir por tu Espíritu y de acoger con sencillez el llamado a seguir a tu Hijo, sin buscar nuestro propio interés. Que este encuentro nos ayude a crecer en la fe y a vivir con mayor libertad interior. Por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Lectura"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué dice la Palabra? (Leer el texto bíblico dos o tres veces)"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "Texto bíblico: Juan 3,25-30: «Él debe crecer y yo disminuir»"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Un día los discípulos de Juan tuvieron una discusión con un judío sobre la purificación espiritual. Fueron donde Juan y le dijeron: ‘Maestro, el que estaba contigo al otro lado del Jordán, y en cuyo favor tú hablaste, está ahora bautizando y todos se van a él.’"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "“Juan respondió: ‘Nadie puede atribuirse más de lo que el Cielo le quiere dar. Ustedes mismos son testigos de que yo dije: «Yo no soy el Mesías, sino el que ha sido enviado delante de él». Es el novio quien tiene a la novia; el amigo del novio está a su lado y hace lo que él le dice y se alegra con solo oír la voz del novio. Por eso me alegro sin reservas. Es necesario que él crezca y que yo disminuya’”."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Preguntas para reflexionar"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de la lectura se toman unos momentos para reflexionar en silencio acerca de una o más de las siguientes preguntas:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "¿Qué situación provoca la inquietud de los discípulos de Juan?"
+            },
+            {
+              "texto": "¿Qué les preocupa y cómo expresan su inquietud?"
+            },
+            {
+              "texto": "¿Cómo responde Juan y qué actitud manifiesta?"
+            },
+            {
+              "texto": "¿Qué imágenes utiliza Juan para explicar su manera de situarse?"
+            },
+            {
+              "texto": "¿Qué palabras o frases del texto llaman más la atención?"
+            },
+            {
+              "texto": "¿Somos capaces de disminuir nosotros para que Jesús crezca? ¿Dejamos que el liderazgo de personas nuevas crezca o somos de los que impiden que esos liderazgos florezcan?"
+            },
+            {
+              "texto": "En nuestra pastoral pasa muchas veces que gastamos tiempo compitiendo entre grupos, movimientos o comunidades. Nos enfocamos en quién es el más importante o tiene más gente, y la búsqueda de poder y protagonismo nos consume. ¿Tenemos problemas de búsqueda de protagonismo o poder? ¿Somos capaces de disminuir nosotros para que Jesús crezca? ¿Dejamos que el liderazgo de personas nuevas crezca o somos de los que impiden que esos liderazgos florezcan?"
+            }
+          ]
+        },
+        {
+          "tipo": "caja",
+          "texto": "En el grupo, luego del tiempo de reflexión, se invita a los participantes a compartir sus respuestas."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Meditación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "¿Qué me dice la Palabra? Aprender a disminuir para que Cristo crezca…"
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "1. Juan el Bautista define su identidad por lo que no es"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Juan el Bautista insiste en la superioridad de Jesús, diciendo que no es el Mesías: no es el Cristo, niega explícitamente ser el Mesías, Elías o “el Profeta” ante los enviados de Jerusalén. La Voz, no la Palabra: se identifica simplemente como “la voz de uno que clama en el desierto”, citando a Isaías. Inferioridad de categoría: declara no ser digno de desatar la correa del calzado de Jesús. Disminución personal: su enseñanza se resume en la frase: “Es necesario que él crezca y que yo disminuya” (Juan 3,30)."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "2. Cuando aparecen las comparaciones"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "El texto comienza mostrando una situación muy humana: los discípulos de Juan se inquietan porque otras personas empiezan a seguir a Jesús. También en nuestra vida surgen comparaciones cuando sentimos que otros avanzan o son reconocidos, y aparece el temor de perder espacio o importancia."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "3. Juan responde con sencillez y claridad"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Juan no entra en discusiones ni se defiende. Él sabe quién es y cuál es su misión. Reconoce que todo lo ha recibido de Dios y que no le corresponde ocupar el centro. Disminuir, para Juan, no es fracasar, sino cumplir con fidelidad lo que le ha sido confiado."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "4. La alegría de saber ocupar el lugar que nos toca"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Juan se presenta como el amigo del esposo, el que no es protagonista, pero se alegra cuando todo se cumple según el plan de Dios. Es una alegría que nace de ver a Cristo ocupar el centro y de aceptar con paz el propio lugar."
+        },
+        {
+          "tipo": "subtitulo",
+          "texto": "5. Disminuir para que Cristo crezca en nuestra vida"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Esta Palabra nos invita a revisar cómo vivimos nuestra fe y nuestro servicio. Disminuir no significa desaparecer, sino dejar espacio para que Cristo actúe en nosotros y en la comunidad, viviendo con mayor libertad y sencillez."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Después de escuchar y meditar la Palabra, nos dirigimos al Señor con sencillez, presentándole nuestra vida y pidiéndole la gracia de aprender a vivir con humildad y confianza, dejando que Él sea el centro."
+        },
+        {
+          "tipo": "caja",
+          "texto": "De manera espontánea, los hermanos pueden hacer una oración en comunidad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Contemplación"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Dios me mira y yo lo miro…"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Nos ponemos en la presencia del Señor con sencillez. Hemos venido para estar ante Él, tal como somos, con nuestra historia, nuestras luchas y, también, con aquello que nos cuesta soltar."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En silencio reconocemos que nuestra vida no se sostiene solo en nuestras fuerzas. Aceptamos que Dios actúa, también, cuando no ocupamos el primer lugar, cuando no controlamos todo, cuando dejamos que Él conduzca."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Escuchamos en lo profundo del corazón la Palabra que Juan Bautista pronuncia con verdad y paz: «Él debe crecer y yo disminuir» (Jn 3,30). Pensamos en lo importante que es dejar crecer a Jesús en nosotros a nivel personal y parroquial, sus valores, sus actitudes, sus principios y sueños para la humanidad. Y que grande logro es que nosotros disminuyamos, nuestro egoísmo, nuestro deseo de protagonismo, de tener la razón y manipular a los demás. Qué bonito es estar dispuestos a disminuir para que Cristo crezca."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Permanecemos unos momentos en silencio, dejando que esta Palabra nos ayude a confiar más en Dios y a vivir con humildad y libertad."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Acción"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "La Palabra que hemos escuchado nos invita a revisar cómo vivimos nuestro servicio, nuestras relaciones y nuestra manera de estar en la comunidad. Disminuir no significa retirarnos ni dejar de servir, sino dejar espacio para que Cristo actúe y para que otros también crezcan."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En este momento, de manera personal o como comunidad, proponemos asumir algunos compromisos sencillos y realistas."
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            {
+              "texto": "Revisar nuestras actitudes cuando no somos tomados en cuenta o cuando otros son reconocidos (por ejemplo, evitar comentarios de comparación, aceptar con paz que otros asuman responsabilidades o reciban reconocimiento)."
+            },
+            {
+              "texto": "Servir en la comunidad sin buscar protagonismo ni aplausos (por ejemplo, cumplir un servicio sencillo y necesario, aunque no sea visible ni destacado)."
+            },
+            {
+              "texto": "Alegrarnos sinceramente cuando el bien se realiza, aunque no sea por medio nuestro (por ejemplo, apoyar iniciativas de otros grupos o personas, sin rivalidad ni desconfianza)."
+            },
+            {
+              "texto": "Aprender a dar un paso atrás cuando sea necesario, confiando en la acción de Dios (por ejemplo, dejar que otros opinen, decidan o conduzcan, sin imponer nuestro punto de vista)."
+            }
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cada persona o la comunidad pueden elegir uno de estos compromisos —u otro semejante— para vivir esta semana el llamado a disminuir, para que Cristo crezca en nuestra vida y en nuestra Iglesia."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Oración final"
+        },
+        {
+          "tipo": "caja",
+          "texto": "Padre Santo, te damos gracias porque nos llamas a seguir a tu Hijo con un corazón sencillo y libre. Concédenos la gracia de disminuir en aquello que nos encierra en nosotros mismos, para que Cristo crezca en nuestra vida y en nuestra comunidad.\n\nTe lo pedimos por Jesucristo nuestro Señor.\n\nAmén."
+        },
+        {
+          "tipo": "seccion",
+          "texto": "Canto final"
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Se sugiere terminar con un canto apropiado."
+        }
+      ]
     }
   ]
 }
